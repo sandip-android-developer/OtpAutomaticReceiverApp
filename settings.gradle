@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "OtpAutomaticReceiverApp"
 include ':app'
+include ':calculator-library'
