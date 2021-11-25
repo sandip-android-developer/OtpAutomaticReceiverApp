@@ -1,6 +1,6 @@
 package com.example.demo_library
 
-object Calculator {
+open object Calculator {
 
     fun add( n1:Int,n2:Int): Int {
       return n1+n2
